@@ -1,0 +1,19 @@
+General Rules:
+Make sure you are regularly committing to THIS repository
+Use DESCRIPTIVE commit message!
+
+Every .java file needs to have comments at the top to list
+each members' names
+
+If you are both working on this at home, you MUST communicate
+otherwise you WILL have merge conflicts
+
+
+U5 Lab Description:
+
+  https://docs.google.com/document/d/1Afp8jnOyIxpbXqO_XTSXI4scoQlKOYmlKTe1rnZZ_5Y/edit?usp=sharing
+
+U5 Lab Rubric:
+
+  https://docs.google.com/document/d/1v8SE6t5LUOeZolLknatYCTL_AbBHE-XZcWKx49Crd2Q/edit?usp=sharing
+
